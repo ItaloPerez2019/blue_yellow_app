@@ -25,10 +25,13 @@
 
   <body>
 
-	  <p>Some changes were made to the master temple</p>
+	 <div clss="nav">
+        <a href="/home/index">Home</a>
+         <a href="/home/about">About</a>
+        <a href="/home/contact">Contact</a>
 
 
-
+     </div>
  	  
     <!-- Bootstrap core JavaScript
     ================================================== -->
